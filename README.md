@@ -1,5 +1,8 @@
 # Map-Reduce
 This was the final big assignment in Stanford CS110. The objective is to harness the power of multiprocessing, networking, threads, concurrency, distributed computing, the Stanford "myth" computer cluster, and the shared AFS file system to build a fully operational MapReduce framework.
+## Disclaimer
+This assignment was provided with a starter code so not all files here are written by me. The attached pdf assignment 
+spec clarify the scope of the work i did in this system.
 ## Map-Reduce files
 This is a complete list of all files contributing to code base.
 #### mr.cc
